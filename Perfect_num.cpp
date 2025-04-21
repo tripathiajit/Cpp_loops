@@ -11,7 +11,7 @@ int main(){
     }
     if(perfect_num(num)){
         std::cout<<num<<" is a perfect number";
-    }
+    }// TO DO
     else{
         std::cout<<num<<" is not a perfect number";
     }
