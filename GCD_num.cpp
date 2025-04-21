@@ -15,6 +15,7 @@ int main(){
             n2 -= n1;
         }
     }
+    // need to remove
     std::cout<<"GCD of "<<m1<<" and "<<m2<<" is "<<n1;
     return 0;
 }
