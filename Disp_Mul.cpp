@@ -12,5 +12,5 @@ int main(){
         std::cout<<num<<" * "<<i<<" = "<<num*i<<"\n";
         i++;
     }
-    return 0;
+    return 0;// 0 is used to indicate that the program has executed successfully.
 }
